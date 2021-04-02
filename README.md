@@ -1,4 +1,4 @@
-<h1 style="align=center">👋 Olá, mundo! </h1>
+<h1 align=center>👋 Olá, mundo! </h1>
 
 - 🌱 Estudando e aprimorando **GIT || GIT HUB**
 
